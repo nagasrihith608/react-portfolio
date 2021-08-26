@@ -68,6 +68,13 @@ class About extends React.Component {
                       </div>
                     </div>
                     <div className="skill-mf">
+                    <div className="col-md-6">
+                    <div className="about-me pt-4 pt-md-0">
+                      <div className="title-box-2">
+                        <h5 className="title-left">Skills</h5>
+                      </div>
+                    </div>
+                  </div>
                       {/* <p className="title-s">Skill</p> */}
                       {this.state.skills.map(skill => {
                         return (

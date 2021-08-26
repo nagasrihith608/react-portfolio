@@ -1,8 +1,7 @@
-# React-portfolio
+# My-portfolio
 
-A boilrplate react portfolio to showcase your projects and work
+You can find my portfolio link below:
 
-
-Dummy-portfolio link -> https://shloksomani.github.io/react-portfolio/
+My-portfolio link -> https://nagasrihith608.github.io/react-portfolio/
 
 ![](test.gif)

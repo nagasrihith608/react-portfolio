@@ -44,18 +44,18 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "I am Naga Srihith Penjarla a 3rd year student at International Institute of Information Technology Bangalore persuing computer science in an 5 year Integrated masters programe. I have always been a tech enthuisast. Curently my intrests peak in cybersecurity and I'm looking to make my career out of it. In my second year summer, I have worked as research intern in the field of cryptography.  "
         },
         {
           id: "second-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "I enjoy playing cricket, badminton and others games. You can ask me anythijng about anime, movies and webseries. I like to listen to music and picky about books I read. You can find my resume below."
         },
         {
           id: "third-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
-        }
+          <center><a className="btn btn-primary button-big btn js-scroll px-4" href={"https://drive.google.com/drive/folders/1hOHPYWjsjgjvwI-rgieXBepgKJ3tZO33?usp=sharing"} target="_blank" rel="noopener noreferrer" role="button">MyResume</a></center>
+        } 
       ]
     };
   }

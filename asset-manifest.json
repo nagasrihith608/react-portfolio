@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.137f0341.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.1a193ecf.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.1a193ecf.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.0c4e4ecc.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.0c4e4ecc.js.map",
+    "static/css/2.242f24fe.chunk.css": "/react-portfolio/static/css/2.242f24fe.chunk.css",
+    "static/js/2.51f1c79d.chunk.js": "/react-portfolio/static/js/2.51f1c79d.chunk.js",
+    "static/js/2.51f1c79d.chunk.js.map": "/react-portfolio/static/js/2.51f1c79d.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.2beeac003434bb6511b26591e4eb7b70.js": "/react-portfolio/precache-manifest.2beeac003434bb6511b26591e4eb7b70.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/2.242f24fe.chunk.css.map": "/react-portfolio/static/css/2.242f24fe.chunk.css.map",
+    "static/css/main.137f0341.chunk.css.map": "/react-portfolio/static/css/main.137f0341.chunk.css.map",
+    "static/js/2.51f1c79d.chunk.js.LICENSE": "/react-portfolio/static/js/2.51f1c79d.chunk.js.LICENSE",
+    "static/media/earth.jpg": "/react-portfolio/static/media/earth.67af05e1.jpg",
+    "static/media/ec.jpg": "/react-portfolio/static/media/ec.4c5c8a98.jpg",
+    "static/media/font-awesome.css": "/react-portfolio/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/image1.jpg": "/react-portfolio/static/media/image1.a01f8846.jpg",
+    "static/media/image2.jpg": "/react-portfolio/static/media/image2.492b3dac.jpg",
+    "static/media/image3.jpg": "/react-portfolio/static/media/image3.6228eeae.jpg",
+    "static/media/image4.jpg": "/react-portfolio/static/media/image4.691e0b6b.jpg",
+    "static/media/image5.jpg": "/react-portfolio/static/media/image5.dac84fe7.jpg",
+    "static/media/image6.jpg": "/react-portfolio/static/media/image6.99e778f5.jpg",
+    "static/media/ionicons.css": "/react-portfolio/static/media/ionicons.621bd386.svg",
+    "static/media/myImage.png": "/react-portfolio/static/media/myImage.640a3753.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c4e4ecc.js",
+    "static/css/2.242f24fe.chunk.css",
+    "static/js/2.51f1c79d.chunk.js",
+    "static/css/main.137f0341.chunk.css",
+    "static/js/main.1a193ecf.chunk.js"
+  ]
+}

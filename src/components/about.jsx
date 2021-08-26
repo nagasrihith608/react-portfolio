@@ -26,12 +26,12 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "I am Naga Srihith Penjarla a 3rd year student at International Institute of Information Technology Bangalore persuing computer science in an 5 year Integrated masters programe. I have always been a tech enthuisast. Curently my intrests peak in cybersecurity and I'm looking to make my career out of it. In my second year summer, I have worked as research intern in the field of cryptography.  "
+            "I am Naga Srihith Penjarla a 3rd-year student at the International Institute of Information Technology Bangalore pursuing computer science in a 5-year Integrated master's program. I have always been a tech enthusiast. Currently, my interest peak in cybersecurity and I'm looking to make my career out of it. In my second year summer, I have worked as a research intern in the field of cryptography."
         },
         {
           id: "second-p-about",
           content:
-            "I enjoy playing cricket, badminton and others games. You can ask me anythijng about anime, movies and webseries. I like to listen to music and picky about books I read. You can find my resume below."
+            "I enjoy playing cricket, badminton and others games. You can ask me anything about anime, movies, and web series. I like to listen to music and am picky about the books I read. You can find my resume below."
         },
         {
           id: "third-p-about",

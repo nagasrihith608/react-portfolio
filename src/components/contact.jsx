@@ -103,21 +103,21 @@ class Contact extends React.Component {
                       </div>
                       <div className="more-info">
                         <p className="lead">
-                          Whether you want to get in touch, talk about a project
-                          collaboration, or just say hi, I'd love to hear from
+                          Feel free to get in touch, talk about a project
+                          collaboration, or you could also just say hi, I'd love to hear from
                           you.
                           <br />
-                          Simply fill the from and send me an email.
+                          Simply fill the from and send me an email. Also you could connet with me over social media.
                         </p>
-                        {/* <!-- <ul class="list-ico">
-                                <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                                <li><span class="ion-ios-telephone"></span> (617) 557-0089</li>
-                                <li><span class="ion-email"></span> contact@example.com</li>
-                                </ul> --> */}
+                         <ul class="list-ico">
+                                <li><span class="ion-ios-location"></span> Opposite to infosys gate 9, IIITB, Karnataka India.</li>
+                                <li><span class="ion-ios-telephone"></span> (+91) 7893039570</li>
+                                <li><span class="ion-email"></span> nagsrihith608@gmail.com</li>
+                                </ul> 
                       </div>
                       <div className="socials">
                         <ul>
-                          <li>
+                          {/* <li>
                             <a
                               href=""
                               target="_blank"
@@ -127,10 +127,10 @@ class Contact extends React.Component {
                                 <i className="ion-social-codepen"></i>
                               </span>
                             </a>
-                          </li>
+                          </li> */}
                           <li>
                             <a
-                              href=""
+                              href="https://github.com/nagasrihith608"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -141,7 +141,7 @@ class Contact extends React.Component {
                           </li>
                           <li>
                             <a
-                              href=""
+                              href="https://www.linkedin.com/in/nagasrihith608/"
                               target="_blank"
                               rel="noopener noreferrer"
                             >

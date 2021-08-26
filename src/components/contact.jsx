@@ -103,11 +103,9 @@ class Contact extends React.Component {
                       </div>
                       <div className="more-info">
                         <p className="lead">
-                          Feel free to get in touch, talk about a project
-                          collaboration, or you could also just say hi, I'd love to hear from
-                          you.
+                        Feel free to get in touch, talk about a project collaboration, or you could also just say hi, I'd love to hear from you.        
                           <br />
-                          Simply fill the from and send me an email. Also you could connet with me over social media.
+                          Simply fill in the form and send me an email. Also, you could connect with me over Linked-in and github.
                         </p>
                          <ul class="list-ico">
                                 <li><span class="ion-ios-location"></span> Opposite to infosys gate 9, IIITB, Karnataka India.</li>
